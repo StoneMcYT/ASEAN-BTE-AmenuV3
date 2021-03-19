@@ -8,4 +8,4 @@ Curretnly in beta
 deppendieces 
 PlaceholderAPI-2.10.9
 EssentialsX-2.18.2.0
-Command pannels 3.15.3.1
+Command pannels 3.11.0.0
